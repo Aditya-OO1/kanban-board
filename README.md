@@ -1,3 +1,10 @@
+## Live Demo
+[https://kanban-board-aditya-aggrawal.vercel.app](https://kanban-board-aditya-aggrawal.vercel.app)
+
+## GitHub
+[https://github.com/Aditya-OO1/kanban-board](https://github.com/Aditya-OO1/kanban-board)
+
+
 # Kanban Board
 
 A Trello-like Kanban board built with Next.js 15, TypeScript, and Tailwind CSS for managing tasks across workflow stages.
